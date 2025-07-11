@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EmanMohamed7612/problem_solving/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/EmanMohamed7612/problem_solving/tree/master/0013-roman-to-integer) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EmanMohamed7612/problem_solving/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/EmanMohamed7612/problem_solving/tree/master/0066-plus-one) |
 ## Stack
 |  |
